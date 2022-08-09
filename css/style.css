@@ -1,3 +1,5 @@
+/* This is an introdution and practice using CSS. */
+
 body {
     background-color: #000;
     color: white;
@@ -8,6 +10,8 @@ body {
 p {
     color: white;
 }
+
+/* "." means class*/
 
 .chapter1 {
     color: #000;
