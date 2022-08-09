@@ -9,17 +9,24 @@ p {
     color: white;
 }
 
+.chapter1 {
+    color: #000;
+}
+
+.highlight {
+    color: black;
+}
+
 
 h1 {
     font-size: 70px;
     color: rgb(199, 3, 199);
 }
 
-div {
-   background-color: aqua;
-   width: 700px;
+.top-section {
+    background-color: aqua;
 }
 
-span {
-    color: black;
+.bottom-section {
+    background-color: pink;
 }
