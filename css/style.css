@@ -34,3 +34,11 @@ h1 {
 .bottom-section {
     background-color: pink;
 }
+
+/* practice useing the css box model */
+
+.box {
+    background-color: aqua;
+    width: 550px;
+    padding-left: 5px;
+}
