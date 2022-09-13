@@ -10,6 +10,11 @@ p {
     color: white;
 }
 
+h1 {
+    font-size: 70px;
+    color: rgb(199, 3, 199);
+}
+
 /* "." means class*/
 
 .chapter1 {
@@ -26,11 +31,6 @@ p {
 
 .highlight {
     color: black;
-}
-
-h1 {
-    font-size: 70px;
-    color: rgb(199, 3, 199);
 }
 
 .top-section {
