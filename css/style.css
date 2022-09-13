@@ -26,7 +26,17 @@ h1 {
 }
 
 .chapter3 {
-    color: rgb(51, 3, 129);
+    /* glowing text effect with purple light edges */
+    color: rgb(5, 0, 5);
+  text-shadow:
+    0 0 5px #fff,
+    0 0 10px #fff,
+    0 0 20px #fff,
+    0 0 40px rgb(242, 4, 238),
+    0 0 80px rgb(242, 4, 238),
+    0 0 90px rgb(242, 4, 238),
+    0 0 100px rgb(242, 4, 238),
+    0 0 150px rgb(242, 4, 238);
 }
 
 .highlight {
