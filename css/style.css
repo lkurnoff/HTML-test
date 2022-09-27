@@ -62,3 +62,10 @@ h1 {
 .box2 {
     background-image: url(../img/meng-po.jpeg);
 }
+
+/* styling links */
+
+a {
+  color: blue;
+  text-decoration: none;
+}
